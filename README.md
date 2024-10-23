@@ -1,2 +1,3 @@
-# SFInstagramCode
-code samples 
+Skill Foundry Instragram Repository
+code samples.
+
